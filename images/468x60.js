@@ -1,0 +1,1 @@
+document.writeln("<a href=\"http://www.wofav.com/getcode.php\" target=\"_blank\"><img src=\"/images/468x60.gif\" width=\"468\" height=\"60\" border=\"0\" /></a>");
